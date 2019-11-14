@@ -5,4 +5,5 @@ def square_array(array)
   
    newArray.push[piece ** 2]
   }
+  newArray
 end
